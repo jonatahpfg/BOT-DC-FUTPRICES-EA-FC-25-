@@ -1,4 +1,4 @@
-# BOT-DC-FUTPRICES-EA-FC-25-
+# BOT-DC-FUTPRICES-EA-FC-25
 Este bot foi desenvolvido para facilitar o acompanhamento do mercado de jogadores no EA FC. Com ele, você pode monitorar os valores de cartas de jogadores em tempo real, definir metas de preço e receber notificações automáticas no Discord sempre que o valor de uma carta atingir ou ficar abaixo do valor-alvo definido.
 ## Funcionalidades principais:
 Monitoramento Personalizado: Adicione jogadores à sua lista de observação, especificando um valor-alvo para cada um.
